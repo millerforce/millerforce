@@ -1,4 +1,15 @@
-## Hi there 👋
+## Hi there 👋, I'm Connor
+I am a Canadian-based software developer with a passion for Full Stack and Game Development. I'm driven by a love of problem-solving and diving head-first into every project.
+
+-  🚀 Check out my most recent project [RoboRush](https://github.com/millerforce/RoboRush)
+-  ⭐ Recent learning project [DriveGuard](https://github.com/millerforce/DriveGuard-App)
+
+### Languages and Technology
+[![My Skills](https://skillicons.dev/icons?i=java,androidstudio,cs,cpp,c,unity,postgres,spring)](https://skillicons.dev)
+
+### Reach Me
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/connorrmiller)
+[![My Skills](https://skillicons.dev/icons?i=gmail)](miller77fb@gmail.com)
 
 <!--
 **millerforce/millerforce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
