@@ -11,6 +11,7 @@ I am a Canadian-based software developer with a passion for Full Stack and Game 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](www.linkedin.com/in/connorrmiller)
 [![My Skills](https://skillicons.dev/icons?i=gmail)](miller77fb@gmail.com)
 
+Find my resume [here](https://docs.google.com/document/d/1JYyrIeHVvMiG-xtc6rXgoWxxGhmmSCt-A8Wo7uMl8qQ/edit?usp=sharing)
 <!--
 **millerforce/millerforce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
